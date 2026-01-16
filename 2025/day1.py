@@ -23,7 +23,7 @@ print(count)
 # Part 2
 dial = 50
 count = 0
-with open("day1_input.txt", 'r') as file:
+with open("2025/day1_input.txt", 'r') as file:
     for line in file:
         num = int(line[1:])
         
